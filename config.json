@@ -15,11 +15,11 @@
 	"nickNameBot": "hinta 🐤",
 	"prefix": "-",
 	"api":"https://noobs-api.rf.gd/dipto",
-	"adminOnly": {100094753313180
+	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [ 100094753313180 ],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
